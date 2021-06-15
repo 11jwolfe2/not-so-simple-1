@@ -30,7 +30,7 @@ const Home = () => {
         <div className='w-100 flex flex-col justify-center pt-6 text-lg'>
           <span>
             <a
-              href='https://www.reddit.com/r/SimpleBanking/comments/ksjpw5/megathread_for_discussing_alternatives/gigdx7f?utm_source=share&utm_medium=web2x&context=3'
+              href='https://docs.google.com/spreadsheets/d/1Etr8dGtviSRpdAjREgBErc47SlqMVjwZDJjHKxX7eOk/edit?usp=sharing'
               target='_blank'
               rel='noreferrer'
               className='text-purple-600 underline'
